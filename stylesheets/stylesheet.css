@@ -257,9 +257,10 @@ form {
   padding: 20px;
 }
 
-img {
-  width: 100%;
-  max-width: 100%;
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*******************************************************************************
